@@ -1,1 +1,1 @@
-Terraform with AWS
+Automating Infrastructure with terraform and AWS.
